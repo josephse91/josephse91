@@ -1,11 +1,20 @@
-👋 Hey my name is Serge. My goal is to consistently add to my portfolio and contribute to as many projects as possible.
+Hey, my name is Serge. 👋🏾 
+---
+I typically work on web applications but have an open curiousity to learning more about mobile applications.
 
-Being self-taught, coding has allowed me to dive into my natural desire to solve problems at a high level. I’d like to think that problems are just solutions that haven’t reached the surface yet. 
-I’m currently looking to contribute on projects that expand upon my skill sets and provide usefulness to the tech community. 
+* Graduated Binghamton University in 2014🎓 with a degree in Mechanical Engineering. Experience with scripting languages such as MATLAB and Mathematica. 
+* In September 2021, I began the [App Academy Open](https://www.appacademy.io/) Curriculum, becoming self-taught Fullstack Software Engineer. 
+* I attended The [Recurse Center](https://recurse.com) in the Summer of 2022, where I started developing a TV Show Review web application.
 
-Skills/Interests: HTML, CSS, JavaScript, Node, React, Redux, Jquery, Ruby, Rails, CSS, Sass, 
+💫 React | Redux | JavaScript | Ruby | Rails | PostgreSQL | HTML | CSS | Git | Based in NY 🏢
 
-I envision coding being the focal point of my career going forward. I plan to continue working on my portfolio, harnessing my skills and staying involved within the coding community.
+I plan to continue working on my portfolio, harnessing my skills and staying involved within the coding community while I look to begin my career in software engineering/development.
+
+---
+
+Website: [https://josephse91.github.io](https://josephse91.github.io)
+
+LinkedIn: [https://www.linkedin.com/in/serge-edouard-joseph/](https://www.linkedin.com/in/serge-edouard-joseph/)
 
 📫 sjoseph.eng@gmail.com
 
